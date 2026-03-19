@@ -13,21 +13,23 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 
 🛠 Tech Stack
 - Backend
-	FastAPI
-	SQLAlchemy
-	PostgreSQL
+  
+	FastAPI,
+	SQLAlchemy,
+	PostgreSQL,
 	Uvicorn
 - Frontend
-	React
-	Create React App
+  
+	React,
+	Create React App,
 	JavaScript (Fetch API / Axios)
 
 PROJECT SET-UP
 - create virtual environment: python3 -m venv myenv
-- Backend
+- Backend:
 	pip3 install fastapi uvicorn sqlalchemy psycopg2-binary
-- Frontend
-	Node should be installed
+- Frontend:
+	Node should be installed,
 	npm install
 
 HOW TO RUN?
